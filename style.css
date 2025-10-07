@@ -12,7 +12,7 @@ html{
 
 span[name*="PageTitle"]{
     font-size: 1.6rem !important;
-    font-family: 'bold' !important;
+    font-family: bold !important;
 }
 
 
@@ -26,3 +26,4 @@ input[name*="customtextbox"]{
 
 
 
+/*comment*/
