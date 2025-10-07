@@ -1,3 +1,11 @@
+
+@font-face {
+  font-family: 'regular';
+  src: url('https://cdn.jsdelivr.net/gh/alihomsi/Testing@main/fonts/bold.css') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html{
     background-color: #F9F2ED !important;
 }
@@ -15,3 +23,6 @@ input[name*="customtextbox"]{
     border-color: #EAD1C3 !important;
     margin-bottom: 1rem !important;
 }
+
+
+
